@@ -7,15 +7,13 @@ DeepSeek
 HarmonyOS
 任正非
 
-比亚迪
-王传福
-
 大疆
 DJI
 
+机器人
+Optimus
 宇树
 王兴兴
-
 智元
 灵犀
 稚晖君
@@ -23,20 +21,6 @@ DJI
 
 黑神话
 冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
 
 京东
 刘强东
@@ -47,6 +31,9 @@ bytedance
 
 特斯拉
 马斯克
+SpaceX
+Starlink
+Nerualink
 
 微软
 Microsoft
@@ -54,10 +41,13 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
+GB300
+NVL
 
 AMD
 
 谷歌
+TPU
 google
 gemini
 deepmind
@@ -79,16 +69,10 @@ ai
 人工智能
 
 自动驾驶
-
-机器人
+FSD
 
 国产
 中国
-
-美国
-日本
-韩国
-
 芯片
 光刻机
 
